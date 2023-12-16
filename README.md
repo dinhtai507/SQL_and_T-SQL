@@ -15,7 +15,7 @@ Objective: The goal is likely to manage and analyze banking transactions using S
 - Segmenting customers based on transaction behavior.
 
 ### Covid-19 Deaths and Vaccinations
-Objective: This subproject to analyze and derive insights from data related to Covid-19, specifically focusing on deaths and vaccinations.
+Objective: This subproject to analyze and derive insights from data related to Covid-19, specifically focusing on deaths and vaccinations. Find, it aims to empower researchers, policymakers, and data enthusiasts with tools and insights for informed decision-making during the global health crisis.
 - Analyzing the trend of Covid-19 deaths over time.
 - Examining the vaccination coverage and distribution.
 - Correlating vaccination rates with the decline in deaths.
